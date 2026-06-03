@@ -1,16 +1,19 @@
-## Hi there 👋
+##  Hi there 👋, I'm Mohamed Salama
 
-<!--
-**mohamedSalama-5/mohamedSalama-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student
 
-Here are some ideas to get you started:
+💻 Learning Backend Development with Java & Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Interested in Software Engineering, Software Architecture, and Problem Solving
+
+## Skills
+- Java
+- C++
+- SQL
+- Git & GitHub
+- Data Structures & Algorithms
+
+## Currently Learning
+- Spring Boot
+- Software Architecture
+- Competitive Programming
